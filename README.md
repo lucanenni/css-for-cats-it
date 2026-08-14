@@ -304,3 +304,5 @@ Hai un altro argomento che vorresti veder trattato? Apri una issue [su GitHub](h
 <hr>
 
 *CSS per Gatti è un progetto indipendente di fan, scritto per l'universo di [JavaScript for Cats](https://github.com/max-mapper/javascript-for-cats) di [@maxogden](http://twitter.com/maxogden), con affetto e senza alcuna affiliazione ufficiale. Contributi e correzioni sono benvenuti su [GitHub](https://github.com/lucanenni/css-for-cats-it).*
+
+*Nota di manutenzione (14/08/2026): aggiornate le dipendenze di build (`marked`, `mustache`) per correggere vulnerabilità di sicurezza note (ReDoS in `marked`, XSS in `mustache`); adeguato `render.js` alla nuova API di `marked`. Nessuna modifica al contenuto del tutorial.*
